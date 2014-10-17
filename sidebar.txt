@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gdu:home|Door43 (gdu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gdu|d43-gdu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gdu/archive/master.zip|d43-gdu.zip]]
+
+**Recent Changes**
+{{changes>ns = gdu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gdu|Ethnologue data]]
+
